@@ -1,4 +1,4 @@
-# 💷 Compensation Intelligence
+# Compensation Benchmarking & Pay Analysis
 ### 119 employees are outside their salary bands. Who are they, and why?
 
 That's the question at the heart of this project.
