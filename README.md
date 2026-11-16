@@ -1,4 +1,12 @@
 # Compensation Benchmarking & Pay Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-536878?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-7256A8?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-218C86?style=flat-square)
+![HR Analytics](https://img.shields.io/badge/HR_Analytics-E58DAD?style=flat-square)
+
 ### 119 employees are outside their salary bands. Who are they, and why?
 
 That's the question at the heart of this project.
